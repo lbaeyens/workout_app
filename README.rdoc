@@ -1,0 +1,1 @@
+Workout_app is the second excercise of the Udemy training “BDD with Ruby on Rails using RSpec 3 and Capybara”
